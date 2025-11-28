@@ -1,21 +1,13 @@
 ---
 title: Saltstead
 subtitle: '*The Crystal Archipelago*'
-tags:
-- ports
-- islands
-- tabaxi
-- nations
-- locations
+tags: [ports, islands, tabaxi, nations, locations]
 infobox: Location
 image: [[Saltstead.jpg, "Settlement"], [Saltstead 2.jpg, "Port"]]
 type: Colony
 flag: '![[Saltstead Flag.png]]'
-location:
-- '[[Crystal Waters]]'
-- 'West of [[Thibis]]'
-inhabitants:
-- '[[Tabaxi]]'
+location: '[[Crystal Waters]]'
+inhabitants: '[[Tabaxi]]'
 ---
 
 **Saltstead** is a sea-merchant settlement of [[Tabaxi]] built on an archipelago west of [[Thibis]], where the [[Crystal Waters]] meets the [[Aegir Ocean]]. It is home to the [[Saltfurr]] clans. Most of the houses are build on stilts.
