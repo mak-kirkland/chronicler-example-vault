@@ -13,25 +13,21 @@ Skills: [Eavesdrop, Endurance, Lead, Lift, Monsters]
 Skills2: [Nature, Persuade, Read Person, Strategy]
 layout:
 - type: group
-  render_as: columns
   keys: [Heritage, Class]
 - type: header
   text: 'Culture'
-  position: {above: Culture}
+  above: Culture
 - type: group
-  render_as: columns
   keys: [Culture, Culture2, Culture3]
 - type: header
   text: 'Parents'
-  position: {above: Mother}
+  above: Mother
 - type: group
-  render_as: columns
   keys: [Mother, Father]
 - type: header
   text: 'Skills'
-  position: {above: Skills}
+  above: Skills
 - type: group
-  render_as: columns
   keys: [Skills, Skills2]
 ---
 

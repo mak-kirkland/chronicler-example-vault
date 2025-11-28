@@ -1,3 +1,11 @@
+---
+title: Aboleth
+image: Aboleth.jpg
+type: Large aberration
+alignment: Lawful evil
+tags: [monster]
+---
+
 ## Aboleth
 *Large Aberration, lawful evil*
 ___

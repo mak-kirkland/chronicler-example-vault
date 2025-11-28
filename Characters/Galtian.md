@@ -13,21 +13,18 @@ Tools_2: ["Disguise", "Poisoners"]
 layout:
 - type: header
   text: 'Tools'
-  position: {above: Tools}
+  above: Tools
 - type: group
-  render_as: columns
   keys: [Tools, Tools_2]
 - type: header
   text: 'Passive Skills'
-  position: {above: Passive_Skills}
+  above: Passive_Skills
 - type: group
-  render_as: columns
   keys: [Passive_Skills, Passive_Skills_2]
 - type: header
   text: 'Proficiency'
-  position: {above: Proficiency}
+  above: Proficiency
 - type: group
-  render_as: columns
   keys: [Proficiency, Proficiency_2]
 ---
 

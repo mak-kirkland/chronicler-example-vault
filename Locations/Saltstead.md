@@ -20,7 +20,7 @@ inhabitants:
 
 **Saltstead** is a sea-merchant settlement of [[Tabaxi]] built on an archipelago west of [[Thibis]], where the [[Crystal Waters]] meets the [[Aegir Ocean]]. It is home to the [[Saltfurr]] clans. Most of the houses are build on stilts.
 
-Their motto is <span style="font-family:'Cinzel'; color:#7622ae; font-size:1.5rem">"In Salt and Sea we trust"</span>.
+Their motto is <span style="font-family:'Cinzel'; color:green; font-size:1.5rem">"In Salt and Sea we trust"</span>.
 
 ## History
 
